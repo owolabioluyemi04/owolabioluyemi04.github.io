@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="YOUR_LOGO_URL" width="180" alt="Spectaluzay Technologies Logo">
-
-[<img src="path/to/image.png">](https://link-to-your-URL/)
-
-![London black cabs in traffic at night](https://mega.nz/file/v7JGGaaa#PrdtnYZ0znbgYco_TeoP5YgivzoeiMxBDqdjbM-t-J8)
+![Logo](comp-logo.png)
 
 
 # Joshua Oluyemi Owolabi
@@ -65,28 +61,45 @@ Windows Server
 Technical Support
 ```
 
-## 📂 Featured Projects
+- # 📂 Featured Projects
 
-- Cisco Packet Tracer Labs
-- Enterprise VLAN Deployment
-- Omada ER605 Configuration
-- Mikrotik Routing Projects
-- CCTV Infrastructure Installations
-- ISP Bandwidth Optimization
+🔹 Enterprise VLAN Deployment & Network Segmentation
+
+🔹 Cisco Switch Installation, Configuration & Management
+
+🔹 Cisco Router Setup, Routing & WAN Connectivity
+
+🔹 Mikrotik Router Configuration & Bandwidth Management
+
+🔹 Omada ER605 Network Deployment & Administration
+
+🔹 Enterprise Printer Installation, Configuration & Maintenance
+
+🔹 CCTV Infrastructure Installation & Monitoring Solutions
+
+🔹 ISP Bandwidth Optimization & Network Performance Tuning
+
+🔹 ERP System Support & Administration
+
+🔹 Network Documentation, Topology Design & Technical Reporting
+
+🔹 Windows Server Deployment & User Management
+
+🔹 Network Troubleshooting & IT Infrastructure Support
 
 ---
 
 ## 📍 Location
 
-Ibadan, Oyo State, Nigeria
+2, Apata, Main market, Apata Ibadan, Oyo State, Nigeria
 
 ---
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: spectaluzay@gmail.com, owolabioluyemi04@gmail.com
+- LinkedIn: www.linkedin.com/in/joshua-owolabi-377b2627b
+- GitHub: https://github.com/owolabioluyemi04
 
 ---
 
