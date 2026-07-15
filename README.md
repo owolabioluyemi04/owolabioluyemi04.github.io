@@ -3,21 +3,15 @@ layout: default
 ---
 
 <div align="center">
-
-![Logo](comp-logo.png)
-
-
-# Joshua Oluyemi Owolabi
-
-### IT Network Engineer | ERP Supervisor | Founder, Spectaluzay Technologies
-
-**RC: 3662752**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-RouterOS-red?style=for-the-badge)
-![ERP](https://img.shields.io/badge/ERP-Support-green?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network-Security-orange?style=for-the-badge)
-
+  <img src="comp-logo.png" alt="Logo" width="150"><br>
+  <h1>Joshua Oluyemi Owolabi</h1>
+  <h3>IT Network Engineer | ERP Supervisor | Founder, Spectaluzay Technologies</h3>
+  <p><strong>RC: 3662752</strong></p>
+  
+  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge" alt="Cisco">
+  <img src="https://img.shields.io/badge/Mikrotik-RouterOS-red?style=for-the-badge" alt="Mikrotik">
+  <img src="https://img.shields.io/badge/ERP-Support-green?style=for-the-badge" alt="ERP">
+  <img src="https://img.shields.io/badge/Network-Security-orange?style=for-the-badge" alt="Network Security">
 </div>
 
 ---
