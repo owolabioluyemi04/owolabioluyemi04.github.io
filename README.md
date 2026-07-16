@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](./comp-logo.png)
+<img src="./comp-logo.png" alt="Logo">
 
 </div>
 
