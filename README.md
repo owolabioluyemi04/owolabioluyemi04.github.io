@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](comp-logo.png)
+![Logo](./comp-logo.png)
 
 # Joshua Oluyemi Owolabi
 
