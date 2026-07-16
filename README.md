@@ -4,11 +4,6 @@
 
 **RC: 3662752**
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-RouterOS-red?style=for-the-badge)
-![ERP](https://img.shields.io/badge/ERP-Support-green?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network-Security-orange?style=for-the-badge)
-
 </div>
 
 
