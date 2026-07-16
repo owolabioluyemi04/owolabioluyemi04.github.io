@@ -2,8 +2,6 @@
 
 ![Logo](comp-logo.png)
 
-**RC: 3662752**
-
 # Joshua Oluyemi Owolabi
 
 **RC: 3662752**
